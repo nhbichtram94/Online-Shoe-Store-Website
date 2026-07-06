@@ -1,0 +1,907 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|c:\\users\\dell\\desktop\\doan\\doan\\areas\\admin\\views\\donhang\\donhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\donhang\\donhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|c:\\users\\dell\\desktop\\doan\\doan\\areas\\admin\\views\\donhang\\chitietdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\donhang\\chitietdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\controllers\\danhmucsanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\controllers\\danhmucsanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|c:\\users\\dell\\desktop\\doan\\doan\\views\\donhang\\chitietdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:views\\donhang\\chitietdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|c:\\users\\dell\\desktop\\doan\\doan\\views\\donhang\\danhsachdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:views\\donhang\\danhsachdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\views\\shared\\_partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\shared\\_partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|c:\\users\\dell\\desktop\\doan\\doan\\areas\\admin\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\views\\danhmucsanpham\\dsdmsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\danhmucsanpham\\dsdmsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|c:\\users\\dell\\desktop\\doan\\doan\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\views\\sanpham\\suasp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\sanpham\\suasp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\views\\danhmuc\\danhmuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\danhmuc\\danhmuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\views\\sanpham\\dssanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\sanpham\\dssanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|c:\\users\\dell\\desktop\\doan\\doan\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\views\\danhmucsanpham\\themdm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\danhmucsanpham\\themdm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\views\\danhmuc\\suadm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\danhmuc\\suadm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\views\\danhmucsanpham\\suadmsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\danhmucsanpham\\suadmsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\views\\sanpham\\themsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\sanpham\\themsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\views\\khachhang\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\khachhang\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\views\\danhmuc\\themdm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\danhmuc\\themdm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\areas\\admin\\views\\khachhang\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:areas\\admin\\views\\khachhang\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\views\\dangnhap\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:views\\dangnhap\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\controllers\\dangnhapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:controllers\\dangnhapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\controllers\\danhmucmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:controllers\\danhmucmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\bai2\\bai2\\bai2\\Models\\KhachHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\models\\qlgiaydep.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:models\\qlgiaydep.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\bai2\\bai2\\bai2\\Controllers\\NguoiDungController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\bai2\\bai2\\bai2\\Controllers\\GioHangController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\models\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:models\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\bai2\\bai2\\bai2\\Models\\DangNhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\bai2\\bai2\\bai2\\Controllers\\DangNhapController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\views\\home\\trangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D670B584-D0FF-4238-B0FB-D0C186C110ED}|DoAn.csproj|solutionrelative:views\\home\\trangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DanhSachDonHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\DonHang\\DanhSachDonHang.cshtml",
+              "RelativeDocumentMoniker": "Views\\DonHang\\DanhSachDonHang.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\DonHang\\DanhSachDonHang.cshtml",
+              "RelativeToolTip": "Views\\DonHang\\DanhSachDonHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T01:15:29.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\DonHang\\DonHang.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\DonHang\\DonHang.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\DonHang\\DonHang.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\DonHang\\DonHang.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwGAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T00:58:52.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DanhMucSanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Controllers\\DanhMucSanPhamController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DanhMucSanPhamController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Controllers\\DanhMucSanPhamController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DanhMucSanPhamController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAwwFsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:23:48.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChiTietDonHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\DonHang\\ChiTietDonHang.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\DonHang\\ChiTietDonHang.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\DonHang\\ChiTietDonHang.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\DonHang\\ChiTietDonHang.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T01:00:19.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChiTietDonHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\DonHang\\ChiTietDonHang.cshtml",
+              "RelativeDocumentMoniker": "Views\\DonHang\\ChiTietDonHang.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\DonHang\\ChiTietDonHang.cshtml",
+              "RelativeToolTip": "Views\\DonHang\\ChiTietDonHang.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T01:00:02.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_PartialSideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\Shared\\_PartialSideBar.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_PartialSideBar.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\Shared\\_PartialSideBar.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_PartialSideBar.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwGcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:42:21.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:30:09.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DonHangController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Controllers\\DonHangController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DonHangController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Controllers\\DonHangController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DonHangController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:53:44.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwIAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:24:05.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DSDMSanPham.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\DanhMucSanPham\\DSDMSanPham.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\DanhMucSanPham\\DSDMSanPham.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\DanhMucSanPham\\DSDMSanPham.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\DanhMucSanPham\\DSDMSanPham.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:31:34.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAKkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:36:24.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DanhMucController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Controllers\\DanhMucController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DanhMucController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Controllers\\DanhMucController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DanhMucController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:25:17.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:42:05.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:03:25.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:23:57.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SuaSP.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\SanPham\\SuaSP.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\SanPham\\SuaSP.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\SanPham\\SuaSP.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\SanPham\\SuaSP.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwDUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:30:13.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DanhMuc.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\DanhMuc\\DanhMuc.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\DanhMuc\\DanhMuc.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\DanhMuc\\DanhMuc.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\DanhMuc\\DanhMuc.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:35:58.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DSSanPham.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\SanPham\\DSSanPham.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\SanPham\\DSSanPham.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\SanPham\\DSSanPham.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\SanPham\\DSSanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:30:59.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DonHangController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Controllers\\DonHangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DonHangController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Controllers\\DonHangController.cs",
+              "RelativeToolTip": "Controllers\\DonHangController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:39:30.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:30:17.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ThemDM.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\DanhMucSanPham\\ThemDM.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\DanhMucSanPham\\ThemDM.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\DanhMucSanPham\\ThemDM.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\DanhMucSanPham\\ThemDM.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:33:37.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SuaDM.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\DanhMuc\\SuaDM.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\DanhMuc\\SuaDM.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\DanhMuc\\SuaDM.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\DanhMuc\\SuaDM.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:35:57.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SuaDMSP.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\DanhMucSanPham\\SuaDMSP.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\DanhMucSanPham\\SuaDMSP.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\DanhMucSanPham\\SuaDMSP.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\DanhMucSanPham\\SuaDMSP.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:30:42.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:42:00.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\web.config",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\web.config",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\web.config",
+              "RelativeToolTip": "Areas\\Admin\\Views\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-28T04:39:15.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ThemSP.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\SanPham\\ThemSP.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\SanPham\\ThemSP.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\SanPham\\ThemSP.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\SanPham\\ThemSP.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:30:12.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:31:02.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\KhachHang\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\KhachHang\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\KhachHang\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\KhachHang\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:37:08.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ThemDM.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\DanhMuc\\ThemDM.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\DanhMuc\\ThemDM.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\DanhMuc\\ThemDM.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\DanhMuc\\ThemDM.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:35:54.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\KhachHang\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\KhachHang\\Register.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Areas\\Admin\\Views\\KhachHang\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\KhachHang\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:30:55.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\DangNhap\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "Views\\DangNhap\\DangNhap.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\DangNhap\\DangNhap.cshtml",
+              "RelativeToolTip": "Views\\DangNhap\\DangNhap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T02:05:22.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GioHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\GioHang\\GioHang.cshtml",
+              "RelativeDocumentMoniker": "Views\\GioHang\\GioHang.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\GioHang\\GioHang.cshtml",
+              "RelativeToolTip": "Views\\GioHang\\GioHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T02:15:48.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwDMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T15:11:01.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\NguoiDung\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "Views\\NguoiDung\\DangKy.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\NguoiDung\\DangKy.cshtml",
+              "RelativeToolTip": "Views\\NguoiDung\\DangKy.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T01:31:20.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:14:39.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DangNhapController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Controllers\\DangNhapController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DangNhapController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Controllers\\DangNhapController.cs",
+              "RelativeToolTip": "Controllers\\DangNhapController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:53:15.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NguoiDungController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Controllers\\NguoiDungController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NguoiDungController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Controllers\\NguoiDungController.cs",
+              "RelativeToolTip": "Controllers\\NguoiDungController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:28:38.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T13:21:07.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GioHang.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Models\\GioHang.cs",
+              "RelativeDocumentMoniker": "Models\\GioHang.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Models\\GioHang.cs",
+              "RelativeToolTip": "Models\\GioHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:13:46.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:22:41.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Models\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Models\\KhachHang.cs",
+              "RelativeToolTip": "Models\\KhachHang.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:42:08.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DanhMucMenuController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Controllers\\DanhMucMenuController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DanhMucMenuController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Controllers\\DanhMucMenuController.cs",
+              "RelativeToolTip": "Controllers\\DanhMucMenuController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:47:20.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GioHangController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "Controllers\\GioHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:48:57.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:25:39.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\bai2\\bai2\\bai2\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "..\\..\\bai2\\bai2\\bai2\\Models\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\bai2\\bai2\\bai2\\Models\\KhachHang.cs",
+              "RelativeToolTip": "..\\..\\bai2\\bai2\\bai2\\Models\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:35:29.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "QLGiayDep.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Models\\QLGiayDep.edmx",
+              "RelativeDocumentMoniker": "Models\\QLGiayDep.edmx",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Models\\QLGiayDep.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\QLGiayDep.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-28T01:41:24.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NguoiDungController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\bai2\\bai2\\bai2\\Controllers\\NguoiDungController.cs",
+              "RelativeDocumentMoniker": "..\\..\\bai2\\bai2\\bai2\\Controllers\\NguoiDungController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\bai2\\bai2\\bai2\\Controllers\\NguoiDungController.cs",
+              "RelativeToolTip": "..\\..\\bai2\\bai2\\bai2\\Controllers\\NguoiDungController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:28:07.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\bai2\\bai2\\bai2\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "..\\..\\bai2\\bai2\\bai2\\Controllers\\GioHangController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\bai2\\bai2\\bai2\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "..\\..\\bai2\\bai2\\bai2\\Controllers\\GioHangController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAxwIgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:27:33.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Models\\DangNhap.cs",
+              "RelativeDocumentMoniker": "Models\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Models\\DangNhap.cs",
+              "RelativeToolTip": "Models\\DangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:55:00.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:57:05.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\bai2\\bai2\\bai2\\Models\\DangNhap.cs",
+              "RelativeDocumentMoniker": "..\\..\\bai2\\bai2\\bai2\\Models\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\bai2\\bai2\\bai2\\Models\\DangNhap.cs",
+              "RelativeToolTip": "..\\..\\bai2\\bai2\\bai2\\Models\\DangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:55:24.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DangNhapController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\bai2\\bai2\\bai2\\Controllers\\DangNhapController.cs",
+              "RelativeDocumentMoniker": "..\\..\\bai2\\bai2\\bai2\\Controllers\\DangNhapController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\bai2\\bai2\\bai2\\Controllers\\DangNhapController.cs",
+              "RelativeToolTip": "..\\..\\bai2\\bai2\\bai2\\Controllers\\DangNhapController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:53:38.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T13:18:54.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "trangchu.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\Home\\trangchu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\trangchu.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DoAn\\DoAn\\Views\\Home\\trangchu.cshtml",
+              "RelativeToolTip": "Views\\Home\\trangchu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T13:31:12.467Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

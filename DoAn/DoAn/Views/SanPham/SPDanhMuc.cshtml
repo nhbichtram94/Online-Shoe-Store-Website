@@ -1,0 +1,30 @@
+﻿@model IEnumerable<DoAn.Models.SanPham>
+
+<div class="container mt-5">
+    <h2 class="text-center">Sản phẩm trong danh mục</h2> 
+    <div class="row">
+        @if (!Model.Any())
+        {
+            <div class="col-md-12 text-center">
+                <p>Không có sản phẩm nào trong danh mục này.</p> 
+            </div>
+        }
+        else
+        {
+            foreach (DoAn.Models.SanPham item in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 text-center">
+                        <img src="@Url.Content(item.DuongDanHinhAnh)" alt="@item.TieuDe" class="card-img-top" style="width: 200px; height: 200px; object-fit: cover; margin: 0 auto;" />
+                        <div class="card-body">
+                            <h5 class="card-title">@item.TieuDe</h5>
+                            <a href="@Url.Action("Xemchitiet", "SanPham", new { id = item.Id })" class="btn btn-primary btn-sm">Xem chi tiết</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>
+
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
