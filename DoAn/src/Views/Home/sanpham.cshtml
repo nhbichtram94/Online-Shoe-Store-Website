@@ -1,0 +1,56 @@
+﻿@model IEnumerable<DoAn.Models.SanPham>
+
+@{
+    ViewBag.Title = "Sản Phẩm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var allCategories = ViewBag.AllCategories as List<DoAn.Models.DanhMucSanPham>;
+    var selectedId = ViewBag.SelectedId as int?;
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-12">
+            <div style="height: 100px;"></div>
+
+            <div style="margin-top: 20px;">
+                <form method="get" action="@Url.Action("sanpham", "Home")" class="mb-4">
+                    <label for="categoryFilter" class="font-weight-bold">Chọn danh mục:</label>
+                    <select id="categoryFilter" name="id" onchange="this.form.submit()" class="form-control" style="width: 200px; display: inline-block;">
+                        <option value="">Tất cả</option>
+                        @foreach (var item in allCategories)
+                        {
+                            <option value="@item.Id" @(item.Id == selectedId ? "selected" : "")>@item.TieuDe</option>
+                        }
+                    </select>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        @if (!Model.Any())
+        {
+            <div class="col-md-12 text-center">
+                <p>Không có sản phẩm nào trong danh mục này.</p>
+            </div>
+        }
+        else
+        {
+            foreach (var item in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 text-center">
+                        <img src="@Url.Content(item.DuongDanHinhAnh)" alt="@item.TieuDe" class="card-img-top" style="width: 200px; height: 200px; object-fit: cover; margin: 0 auto;" />
+                        <div class="card-body">
+                            <h5 class="card-title">@item.TieuDe</h5>
+                            <a href="@Url.Action("Xemchitiet", "SanPham", new { id = item.Id })" class="btn btn-primary btn-sm">Xem chi tiết</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>
+
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />

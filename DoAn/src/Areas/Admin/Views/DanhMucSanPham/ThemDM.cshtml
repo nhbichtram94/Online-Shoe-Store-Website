@@ -1,0 +1,88 @@
+﻿@using DoAn.Models
+@model SanPham
+@{
+    ViewBag.Title = "ThemDM";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Thêm Mới Sản Phẩm</h2>
+
+@section naviheader
+{
+    <ul class="navbar-nav">
+        <li class="nav-item">
+            <a class="nav-link" data-widget="pushmenu" href="#" role="button">
+                <i class="fas fa-bars"></i>
+            </a>
+        </li>
+        <li class="nav-item d-none d-sm-inline-block">
+            <a href="/Admin/Home" class="nav-link">Home</a>
+        </li>
+       
+        <li class="nav-item d-none d-sm-inline-block">
+            <a href="/Admin/DanhMuc/DSDMSanPham" class="nav-link">Danh mục sản phẩm</a>
+        </li>
+        <li class="nav-item d-none d-sm-inline-block">
+            <a href="#" class="nav-link">Thêm mới Danh Mục sản phẩm</a>
+        </li>
+    </ul>
+}
+
+<div class="content-wrapper">
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1 class="d-inline">Thêm mới Danh Mục Sản Phẩm</h1>
+                </div>
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item">
+                            @Html.ActionLink("Danh Mục","DanhMuc","DanhMuc")
+                        </li>
+                        <li class="breadcrumb-item active">Thêm mới Danh Mục Sản Phẩm</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="content">
+        <div class="card">
+            @*<div class="card-header">
+                <h3 class="card-title">Thông tin thêm sản phẩm</h3>
+            </div>*@
+            <div class="card-body">
+                @using (@Html.BeginForm("ThemDM", "DanhMucSanPham", FormMethod.Post))
+                {
+                    <div class="card">
+  
+                        <div class="card-body">
+                            <div class="tab-content">
+                                <div class="active tab-pane" id="activity">
+                                    <div class="form-group">
+                                        @Html.LabelFor(m => m.TieuDe, "Tên Sản Phẩm")
+                                        @Html.TextBoxFor(m => m.TieuDe, new { @class = "form-control" })
+                                        @Html.ValidationMessageFor(m => m.TieuDe, "", new { @class = "text-danger" })
+                                    </div>
+                                    <div class="form-group">
+                                        @Html.LabelFor(m => m.MoTa, "Mô tả")
+                                        @Html.TextAreaFor(m => m.MoTa, new { @class = "form-control" })
+                                        @Html.ValidationMessageFor(m => m.MoTa, "", new { @class = "text-danger" })
+                                    </div>
+                                  
+                                  
+                                    <button type="submit" class="btn btn-success">Tạo mới</button>
+                                    @Html.ActionLink("Trở về", "DSDMSanPham", "DanhMucSanPham", null, new { @class = "btn btn-primary" })
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+            <div class="card-footer">
+                Footer
+            </div>
+        </div>
+    </section>
+</div>

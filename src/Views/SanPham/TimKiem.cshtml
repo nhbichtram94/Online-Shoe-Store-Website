@@ -1,0 +1,50 @@
+﻿@model IEnumerable<DoAn.Models.SanPham>
+
+@{
+    ViewBag.Title = "Tìm Kiếm Sản Phẩm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <div style="height: 100px;"></div>
+    <h2 class="search-results-title">Tìm Kiếm Kết Quả Cho: <strong>@ViewBag.SearchTerm</strong></h2>
+
+    @if (!Model.Any())
+    {
+        <p class="no-results-message">Không tìm thấy sản phẩm nào.</p>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 text-center">
+                        <img src="@Url.Content(item.DuongDanHinhAnh)" alt="@item.TieuDe" class="card-img-top" style="width: 200px; height: 200px; object-fit: cover; margin: 0 auto;" />
+                        <div class="card-body">
+                            <h5 class="card-title product-title">@item.TieuDe</h5>
+                            <a href="@Url.Action("Xemchitiet", "SanPham", new { id = item.Id })" class="btn btn-primary btn-sm">Xem chi tiết</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
+
+<style>
+    .search-results-title {
+        font-size: 1.5rem; 
+        margin-bottom: 20px; 
+    }
+
+    .no-results-message {
+        font-size: 1rem; 
+        color: #888;
+    }
+
+    .product-title {
+        font-size: 1.2rem;
+        margin-bottom: 10px; 
+    }
+</style>
